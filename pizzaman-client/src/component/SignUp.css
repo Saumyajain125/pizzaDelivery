@@ -1,0 +1,35 @@
+.sign-in-container{
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+    align-items: flex-start;
+    background-color: burlywood;
+    box-shadow: 15dp;
+    padding: 50px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    word-spacing: 5px;
+    justify-content: space-evenly;
+}
+
+.button-style{
+    margin-top: 20px;
+    margin-left: 45px;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 10px;
+}
+.login-signin{
+    padding-left: 35%;
+    width: max-content;
+    align-items: center;
+}
+h2{
+    align-items: center;
+    width: fit-content;
+}
+div{
+    width: 100%;
+    align-items: center;
+}
