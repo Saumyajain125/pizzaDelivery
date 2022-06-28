@@ -11,7 +11,6 @@ function SignIn() {
       "Email": email,
       "Password": password
     };
-    console.log(object);
     axios.post('http://localhost:3000/api/auth/signup', object).then((response) => console.log(response))
       .catch(function (error) {
         console.log(error);
