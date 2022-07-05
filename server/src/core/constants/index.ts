@@ -1,0 +1,9 @@
+export const SEQUELIZE = 'SEQUELIZE';
+export const DEVELOPMENT = 'development';
+export const TEST = 'test';
+export const PRODUCTION = 'production';
+export const USER_REPOSITORY = 'USER_REPOSITORY';
+export const INGREDIENT_REPOSITORY = 'INGREDIENT_REPOSITORY'
+export const CART_REPOSITORY = 'CART_REPOSITORY'
+export const ORDERS_REPOSITORY = 'ORDERS_REPOSITORY';
+export const SIZE_REPOSITORY = 'SIZE_REPOSITORY'
